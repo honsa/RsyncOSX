@@ -18,7 +18,7 @@
 "Add Schedule?" = "Zeitplan hinzufügen?";
 
 /* Toolbar */
-"Add task..." = "Aufgabe hinzufügen...";
+"Add task" = "Aufgabe";
 
 /* Sidebar */
 "Assist" = "Hilfe";
@@ -54,7 +54,7 @@
 "Cleaning logs completed..." = "Logs werden bereinigt...";
 
 /* Close NSAlert */
-"Close" = "Schließen";
+"Close" = "Schliessen";
 
 /* Sidebar */
 "Command" = "Befehl";
@@ -297,7 +297,7 @@
 "Scheduled tasks in menu app..." = "Geplante Aufgaben in der Menü-App...";
 
 /* Sidebar */
-"Schedules" = "Zeitpläne";
+"Schedules" = "Zeitplan";
 
 /* Copy files
    Remote Info
